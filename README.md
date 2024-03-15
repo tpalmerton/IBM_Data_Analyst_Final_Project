@@ -18,3 +18,6 @@ EDA with Data Visualization -- Data Visualization
 
 Interactive Visual Analytics with Folium -- Folium
 -- [Interactive Visual Analytics with Folium](lab_jupyter_launch_site_location.jupyterlite.ipynb)
+
+Interactive Visual Analytics with Plotly Dash -- Plotly Dash
+-- [Plotly Dash Visuals code](spacex_dash_app.py)
