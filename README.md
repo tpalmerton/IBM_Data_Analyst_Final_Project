@@ -8,7 +8,7 @@ Data Collection - SpaceX Web Scraping
 -- [Data Collection - Scraping](jupyter-labs-webscraping.ipynb)
 
 Data Wrangling -- First Stage Landing Prediction
--- [Data Wrangling](labs-jupyter-spacex-Data wrangling.ipynb)
+-- [Data Wrangling]()
 
 EDA with Data Visualization -- SQL Notebook
--- [EDA with Data Visualization]()
+-- [EDA with Data Visualization](jupyter-labs-eda-sql-coursera_sqllite.ipynb)
