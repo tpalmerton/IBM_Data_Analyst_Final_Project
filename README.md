@@ -17,4 +17,4 @@ EDA with Data Visualization -- Data Visualization
 -- [EDA with Data Visualization](jupyter-labs-eda-dataviz.ipynb.jupyterlite.ipynb)
 
 Interactive Visual Analytics with Folium -- Folium
--- [Interactive Visual Analytics with Folium]()
+-- [Interactive Visual Analytics with Folium](lab_jupyter_launch_site_location.jupyterlite.ipynb)
