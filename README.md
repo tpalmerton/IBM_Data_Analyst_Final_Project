@@ -1,5 +1,5 @@
-##IBM Data Analyst Final Project
-#This is a repository for the IBM Data Analyst Final Project through Coursera
+## IBM Data Analyst Final Project
+# This is a repository for the IBM Data Analyst Final Project through Coursera
 
 Data Collection – SpaceX API
 -- [Data Collection - SpaceX API](jupyter-labs-spacex-data-collection-api.ipynb)
