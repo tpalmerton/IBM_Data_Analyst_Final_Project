@@ -21,3 +21,6 @@ Interactive Visual Analytics with Folium -- Folium
 
 Interactive Visual Analytics with Plotly Dash -- Plotly Dash
 -- [Plotly Dash Visuals code](spacex_dash_app.py)
+
+Data Analysis with Machine Learning -- Predictive Analysis
+-- [Machine Learning Data Analysis](SpaceX_Machine_Learning_Prediction_Part_5.jupyterlite.ipynb)
