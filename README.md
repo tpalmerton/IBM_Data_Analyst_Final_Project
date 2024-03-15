@@ -5,4 +5,4 @@ Data Collection – SpaceX API
 -- [Data Collection - SpaceX API](jupyter-labs-spacex-data-collection-api.ipynb)
 
 Data Collection - SpaceX Web Scraping
--- [Data Collection - Scraping]()
+-- [Data Collection - Scraping](jupyter-labs-webscraping.ipynb)
