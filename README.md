@@ -11,4 +11,7 @@ Data Wrangling -- First Stage Landing Prediction
 -- [Data Wrangling](labs-jupyter-spacex-Data_wrangling.ipynb)
 
 EDA with Data Visualization -- SQL Notebook
--- [EDA with Data Visualization](jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+-- [EDA utilizing SQL](jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+
+EDA with Data Visualization -- Data Visualization
+-- [EDA with Data Visualization](jupyter-labs-eda-dataviz.ipynb.jupyterlite.ipynb)
